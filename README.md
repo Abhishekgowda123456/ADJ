@@ -1,4 +1,4 @@
-1a_Arraylist->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1a/Arraylist.png
+1a_Arraylist->https://github.com/Abhishekgowda123456/Advanced-Java-Programs/blob/main/1a/Arraylist.png
 
 1b_1_Search_color->https://github.com/Apoorvaguttedar/Advanced-Java-Programs/blob/main/1b/Red_Removal.png
 
